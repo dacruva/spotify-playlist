@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to spotify-playlist 👋</h1>
+<h1 align="center">Welcome to spotify-playlist-creation 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/spotify-playlist" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/spotify-playlist.svg">
